@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "maple-logic",
+  "private_key_id": "faba240f1006f3da34280120d74f47ea33437156",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2H65Cm1Q5ZwUt\npYekEPZMnFMiFmohgPtLAOKJYnLyTKBS/OAq2lrRX9H6Pfh5K+UWoL8PkNBsztHT\n2ZdF/yG0KgAI/cGhx0ggqZ7Dvrz1HR/TTn2LoQzR5BGcm5K6Zq8O2Z+Zc6GkGUEx\nFYjLSTlTQfQijOPo11VkMBLZ1ZM+QyZoIRzyQ214+WmMXbEDD/udp7IAuld/j84h\nZZCsMdGmxL4qGq1AfkAfxVTbv6qjAWiGn6+PzBzeO62YjYwk4qbQWD5sxS2FLTql\nsAJlV7lw0T4ZCOz2+5mFIpn6DIV3wEt3DeNkbMvsSF4RntrVt0z29ulrATm+Go3w\nVxeCtBn9AgMBAAECggEAB2xp0/k03lTJVz+ktGv56Mwub03ult2vtdzxXvGOXJCs\nWvWdGuIPoEfW7UD9ZyMCPCviiHs5+QAXzsTTGl1N6GQV4EfyTpUq5s9DKMNrkaoq\n6UK3x1XnNImmq3WD7j56lZEKpQdGPW7HbigXOAIMviIKwNBxXG+lNrzm584sKaDN\nYpQtPKWHQYGre92XN26nHNo5iq5O5/DEQy8rs6xoXT2tVqEaSztoV5Si55l/e0Lo\nPWt3Crtd7kg5OB/g1kt8Ibgu3ePzFlN+D3YZrVXcT+tUIJsG/RWYpXU//L9MT5uY\n15D6Sn/oLWWchAqjd9ImpxYmjXrqo5leI+eR7bi32QKBgQDujz+LCSYYqi9u5z6b\n5mMo+PCJ9+zBYMtEkTUicu+qHaVjYKmj5Nok7yvKh5DJgsG1CWNhw68Fpo3dteLV\np46LAM2WoR0WZNq5XP3OcH2BKjTR7TJ553kj3BLmP83wFwkHK5MdEquNBMGWhVI4\n7I4Fi3tVvP4tXSP5c5vvIwA3JwKBgQDDcDXbLOP4EhoxDvHwBdDNtSJjC08gmyAi\nMmRJaDSroE9X0ZO0CP+SLsfwyGvJ/VQhFwrwHkxupnJAjQPvt3/1fXqgkbIXSp/m\nhO1h0YCurocUVM6hThBhj/aVUScptAjvyXwAklOtLaHQA7k5up+N9ivATx/6cM6M\nD1GAq9v8OwKBgQCGFQdu+vZpmIXOfLSI5WXIapqvwSRV0DSPVloaAaXI5J7Hi1Xt\nozwk1DS1wZpUWGTNfvhXw6eEsoc8HPXghius3weuaOGza34v/x88P6eayIElmH7t\nW3eP+yq4NRZnolrVp90o0wyO1ySDmG2NRw/P+ASbPP1Tu+zzUNJNB0wgswKBgAdu\ncN3Qqyp3pb9PzitOTU5FIPWbLHsU6vfh6qZP7BDKm7m/IlqqLO2mEbw6Ir8fft9z\nPNs8i7N5aMbDle67j4YKK2uHnrn8AHCHhW8+xCHgSQqg3uqLSVwsWTf8Sfzv95cG\nlkx/Q+dF4O1D9vsW+ZIwViGN4K1pNLFms7as0kSZAoGAOuU6C8KOmzHtxLE322lL\n5IX8UDaCps5tTOiDM602b+SmJsED7qJelzaQoPPPpzjeTLGV84i5CtMq0u1arlCD\nHOVHLbahfiw/shQkynqS8BWkx4dyphRSEt9FAKra8FhNjji4vle3zbtXusXdBJ4a\n4ksCtYCFMIbYa3aN2oC36kU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "maplelogic@maple-logic.iam.gserviceaccount.com",
+  "client_id": "100448515011009943616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maplelogic%40maple-logic.iam.gserviceaccount.com"
+}
